@@ -21,7 +21,7 @@ docker run --name cities-db -d -p 5432:5432 -e POSTGRES_USER=postgres_user_city 
 
 ### Populate
 
-* [data](https://github.com/chinnonsantos/sql-paises-estados-cidades/tree/master/PostgreSQL)
+* [data](https://github.com/shyoutarou/cidadesBrasilREST/tree/master/sqls)
 
 ```shell script
 cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
